@@ -1,0 +1,54 @@
+//META{"name":"Noel/Fran Theme","description":"Chinatsudori edit \"Noel/Fran\" - Based on the Frosted","author":"Gibbu","version":"Auto Update"}*//
+@import url("https://gibbu.github.io/BetterDiscord-Themes/FrostedGlass/base.css");
+@import url('https://fonts.googleapis.com/css2?family=Droid+Sans');
+@import url("https://monstrousdev.github.io/themes/addons/user-tags.css");
+@import url("https://codedotspectra.github.io/themes/core/badges.css");
+@import url('https://gibbu.github.io/BetterDiscord-Themes/HorizontalServerlist/base.css');
+@import url('https://gibbu.github.io/BetterDiscord-Themes/RadialStatus/base.css');
+@import url('https://gibbu.github.io/BetterDiscord-Themes/addons/windows-titlebar.css');
+@import url('https://codedotspectra.github.io/themes/core/hljs.css');
+@import url('https://toastyce.github.io/recluse-cube-bot/disctheme.css');
+:root {
+--background-image: url('https://puu.sh/G7ZMM/e653435c98.png');
+--background-image-blur: 0px;
+--popout-modal-image: url('var(--background-image)');
+--popout-modal-blur: 5px;
+--serverlist-brightness: 0.85;
+--left-brightness: 0.85;
+--middle-brightness: 0.65;
+--right-brightness: 0.45;
+--popout-modal-brightness: 0.65;
+--font: 'Droid Sans', sans-serif;
+--tint-colour: 255, 51, 159;
+--tint-brightness: 0;
+--gradient-primary: #C27865;
+--gradient-secondary: rgb(151, 60, 60);
+--window-padding: 0px;
+--window-roundness: 0px;
+--scrollbar-colour: rgba(255,255,255,0.05);
+--link-colour: #00b0f4;
+--show-gift-gif-buttons: none;
+--update-notice-1: none;
+
+--rs-small-spacing: 2px;
+--rs-large-spacing: 3px;
+--rs-width: 2px;
+--rs-avatar-shape: 50%;
+--rs-online-color: #43b581;
+--rs-idle-color: #faa61a;
+--rs-dnd-color: #f04747;
+--rs-streaming-color: #643da7;
+--rs-offline-color: #636b75;
+--rs-invisible-color: #747f8d;
+
+--HSL-server-icon-size: 40px;
+--HSL-server-spacing: 10px;
+}
+
+/* Unread Channels */
+.wrapper-1ucjTd.modeUnread-1zpFdA .content-3at_AU .icon-1_QxNX,
+.wrapper-1ucjTd.modeUnread-1zpFdA .content-3at_AU .name-3_Dsmg {
+    background: -webkit-linear-gradient(90deg, #56fff1, #67c2ff);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
