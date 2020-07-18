@@ -7,7 +7,7 @@
 @import url('https://gibbu.github.io/BetterDiscord-Themes/RadialStatus/base.css');
 @import url('https://gibbu.github.io/BetterDiscord-Themes/addons/windows-titlebar.css');
 @import url('https://codedotspectra.github.io/themes/core/hljs.css');
-@import url('https://toastyce.github.io/recluse-cube-bot/disctheme.css');
+@import url('https://toastyce.github.io/recluse-cube-bot/disctheme.css'); 
 :root {
 --background-image: url('https://puu.sh/G7YYM/856f348e9b.png');
 --background-image-blur: 0px;
@@ -22,8 +22,8 @@
 --bg-colour: rgba(0,0,0,0.05);
 --tint-colour: 255, 51, 159;
 --tint-brightness: 0;
---gradient-primary: #9dee74;
---gradient-secondary: #2e8865;
+--gradient-primary: 157, 238, 116;
+--gradient-secondary: 46, 136, 101;
 --window-padding: 0px;
 --window-roundness: 0px;
 --scrollbar-colour: rgba(255,255,255,0.05);

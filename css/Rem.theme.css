@@ -21,8 +21,8 @@
 --font: 'Droid Sans', sans-serif;
 --tint-colour: 255, 51, 159;
 --tint-brightness: 0;
---gradient-primary: #90a4b8;
---gradient-secondary: #bcdbf7;
+--gradient-primary: 144, 164, 184;
+--gradient-secondary: 188, 219, 247;
 --window-padding: 0px;
 --window-roundness: 0px;
 --scrollbar-colour: rgba(255,255,255,0.05);
